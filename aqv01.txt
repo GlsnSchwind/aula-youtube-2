@@ -1,0 +1,2 @@
+Repositorio na mauqina v1
+git init
